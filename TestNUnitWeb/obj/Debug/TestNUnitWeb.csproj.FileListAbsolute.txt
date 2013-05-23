@@ -1,0 +1,6 @@
+c:\users\nrsh\documents\visual studio 2012\Projects\TestNUnitWeb\TestNUnitWeb\bin\TestNUnitWeb.dll
+c:\users\nrsh\documents\visual studio 2012\Projects\TestNUnitWeb\TestNUnitWeb\bin\TestNUnitWeb.pdb
+c:\users\nrsh\documents\visual studio 2012\Projects\TestNUnitWeb\TestNUnitWeb\bin\nunit.framework.dll
+c:\users\nrsh\documents\visual studio 2012\Projects\TestNUnitWeb\TestNUnitWeb\obj\Debug\TestNUnitWeb.dll
+c:\users\nrsh\documents\visual studio 2012\Projects\TestNUnitWeb\TestNUnitWeb\obj\Debug\TestNUnitWeb.pdb
+C:\Users\Nrsh\Documents\Visual Studio 2012\Projects\TestNUnitWeb\TestNUnitWeb\obj\Debug\TestNUnitWeb.csprojResolveAssemblyReference.cache
